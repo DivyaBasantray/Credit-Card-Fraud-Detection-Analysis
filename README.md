@@ -104,6 +104,12 @@ The page compares the average feature values for fraudulent and legitimate trans
 
 Since these PCA features are anonymized, they are treated as statistical components rather than being assigned specific business meanings.
 
+### Dashboard Access
+
+The complete Power BI dashboard is available in the GitHub release:
+
+[**View / Download Power BI Dashboard (v1.0.0)**](https://github.com/DivyaBasantray/Credit-Card-Fraud-Detection-Analysis/releases/tag/v1.0.0)
+
 ---
 
 ## 5. Dataset Origin
