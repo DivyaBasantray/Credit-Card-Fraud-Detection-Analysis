@@ -132,16 +132,18 @@ Due to confidentiality and privacy concerns, most of the original transaction fe
 
 ---
 
+---
+
 ## Dashboard Preview
 
 ### 1. Fraud Overview
 
-![Fraud Overview](screenshots/fraud-overview.jpg)
+![Fraud Overview](power%20bi/Fraud%20Overview.png)
 
 ### 2. Fraud Patterns
 
-![Fraud Patterns](screenshots/fraud-patterns.jpg)
+![Fraud Patterns](power%20bi/Fraud%20Patterns.png)
 
 ### 3. Fraud Feature Analysis
 
-![Fraud Feature Analysis](screenshots/fraud-feature-analysis.jpg)
+![Fraud Feature Analysis](power%20bi/Fraud%20Feature%20Analysis.png)
