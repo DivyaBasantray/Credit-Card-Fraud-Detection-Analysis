@@ -106,11 +106,11 @@ Since these PCA features are anonymized, they are treated as statistical compone
 
 ## 5. Dataset Origin
 
-The dataset is the **Credit Card Fraud Detection dataset**, originally made available on Kaggle.
+- The dataset is the **Credit Card Fraud Detection dataset**, originally made available on Kaggle - https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
 
-It contains transactions made by European cardholders during **September 2013** over a period of approximately two days.
+- It contains transactions made by European cardholders during **September 2013** over a period of approximately two days.
 
-The dataset contains **284,807 transactions**, of which **492 are fraudulent**.
+- The dataset contains **284,807 transactions**, of which **492 are fraudulent**.
 
 The dataset includes:
 - `Time` – seconds elapsed between each transaction and the first transaction
