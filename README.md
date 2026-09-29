@@ -1,3 +1,5 @@
+# Credit Card Fraud Detection Analysis
+
 ## 1. Project Objective
 
 The objective of this project is to analyze credit card transactions and identify patterns associated with fraudulent activity.
