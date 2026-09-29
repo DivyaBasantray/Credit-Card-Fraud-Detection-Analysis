@@ -129,3 +129,19 @@ The dataset includes:
 - `Class` – transaction classification, where `0` represents a legitimate transaction and `1` represents fraud
 
 Due to confidentiality and privacy concerns, most of the original transaction features were transformed using PCA and are therefore provided as anonymized variables.
+
+---
+
+## Dashboard Preview
+
+### 1. Fraud Overview
+
+![Fraud Overview](screenshots/fraud-overview.jpg)
+
+### 2. Fraud Patterns
+
+![Fraud Patterns](screenshots/fraud-patterns.jpg)
+
+### 3. Fraud Feature Analysis
+
+![Fraud Feature Analysis](screenshots/fraud-feature-analysis.jpg)
